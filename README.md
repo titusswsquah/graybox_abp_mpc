@@ -1,1 +1,1 @@
-# graybox_abp_mpc
+# Gray-box modeling for Active Brownian Particle Control
