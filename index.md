@@ -96,7 +96,7 @@ layout: default
   }
   /* Responsive behavior for mobile */
   @media only screen and (max-width: 768px) {
-    .image-900x600, .image-900x450, .image-900x563, .image-450x526\.5 {
+    .image-900x544 .image-900x600, .image-900x450, .image-900x563, .image-450x526\.5 {
       width: 100%;
       height: auto;
     }
