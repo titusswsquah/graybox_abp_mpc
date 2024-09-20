@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Gray-box modeling for Active Brownian Particle Control
+description: Titus Quah, Sho C. Takatori, and James B. Rawlings<br>Department of Chemical Engineering, University of California, Santa Barbara
+theme: jekyll-theme-cayman
 ---
 # Gray-box Model Predictive Control framework
 <div align="center">
