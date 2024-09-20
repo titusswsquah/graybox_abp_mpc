@@ -12,7 +12,7 @@ layout: default
 900x675
 
 <div align="center">
-  <img src="./media/aps_intro_full_poster_tex.png" alt="Overview of graybox+mpc" width="900" height="544">
+  <img src="./media/aps_intro_full_poster_tex.png" alt="Overview of graybox+mpc"  class="responsive-image">
   <p><i>MPC for splitting population and juggling densities.
 	(a) shows a subset of the particles in the BD simulation.
 	The particles are colored by their orientation as indicated by the legend.
@@ -45,7 +45,25 @@ layout: default
     <img src="./media/mips_be_ctrl2_movie.gif" alt="Noninteracting vs active hard disks" width="900" height="450">
   <p><i>WAYA 8
 	</i></p>
-        <img src="./media/max_flux2_be70_ctrl_movie.gif" alt="Noninteracting vs active hard disks" width="900" height="675">
+    <img src="./media/max_flux_tex.png" alt="Noninteracting vs active hard disks" width="450" height="526.5">
+  <p><i>WAYA 9
+	</i></p>
+    <img src="./media/max_flux2_be70_ctrl_movie.gif" alt="Noninteracting vs active hard disks" width="900" height="600">
   <p><i>WAYA 9
 	</i></p>
 </div>
+<style>
+  /* Default style for desktop */
+  .responsive-image {
+    width: 900px;
+    height: 544px;
+  }
+
+  /* Style for mobile devices */
+  @media only screen and (max-width: 768px) {
+    .responsive-image {
+      width: 100%; /* Adjusts width to be responsive on smaller screens */
+      height: auto; /* Maintains the aspect ratio */
+    }
+  }
+</style>
