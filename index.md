@@ -64,7 +64,7 @@ layout: default
 </div>
 ## Gray-box MPC for the fastest trap problem
 <div align="center">
-    <img src="./media/max_flux2_be70_ctrl_movie.gif" alt="Noninteracting vs active hard disks" class="image-900x450">
+    <img src="./media/max_flux2_be70_ctrl_movie.gif" alt="Gray-box MPC for Fastest trap" class="image-900x450">
   <p><i>Gray-box MPC for the fastest trap problem with a minimum trap fraction of 70%. BD simulation (left) and number density trajectory (second from left) show the particles moving rightward. The trap center is marked by the red dashed line while the trap area is the shaded region. The orienting field (second from right) is the control signal from MPC. The trapped particle fraction achieved by MPC (right) is shown to remain above the minimum threshold.
 	</i></p>
 </div>
