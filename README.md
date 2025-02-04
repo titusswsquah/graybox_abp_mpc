@@ -1,5 +1,5 @@
 # Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles
-Code for the paper ["Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles"](https://arxiv.org/abs/xxxx.xxxxx) by Titus Quah, Sho C. Takatori, and James B. Rawlings. 
+Code for the paper ["Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles"](https://arxiv.org/abs/2501.18809) by Titus Quah, Sho C. Takatori, and James B. Rawlings. 
 
 Website: https://titusswsquah.github.io/graybox_abp_mpc/
 <!-- <div align="center">
@@ -45,8 +45,9 @@ python ctrl.py
 If you find this code useful, please consider citing our paper:
 ```
 @misc{quah2025abpgrayboxmpc,
-  title={Physics-informed neural model predictive control of interacting active {Brownian} particles},
-  author={Quah, Titus and Takatori, Sho C and Rawlings, James B},
-  year={2025}
+  title = {Physics-informed {Neural} {Model} {Predictive} {Control} of {Interacting} {Active} {Brownian} {Particles}},
+	doi = {10.48550/arXiv.2501.18809},
+	author = {Quah, Titus and Takatori, Sho C. and Rawlings, James B.},
+	year = {2025},
 }
 ```
