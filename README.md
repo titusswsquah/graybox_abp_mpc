@@ -1,5 +1,5 @@
-# Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles
-Code for the paper ["Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles"](https://arxiv.org/abs/2501.18809) by Titus Quah, Sho C. Takatori, and James B. Rawlings. 
+# Learning Continuum-level Closures For Control of Interacting Active Particles
+Code for the paper ["Learning Continuum-level Closures For Control of Interacting Active Particles"](https://arxiv.org/abs/2501.18809) by Titus Quah, Sho C. Takatori, and James B. Rawlings. 
 
 Website: https://titusswsquah.github.io/graybox_abp_mpc/
 <!-- <div align="center">
