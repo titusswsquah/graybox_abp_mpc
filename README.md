@@ -45,7 +45,7 @@ python ctrl.py
 If you find this code useful, please consider citing our paper:
 ```
 @misc{quah2025abpgrayboxmpc,
-  title = {Physics-informed {Neural} {Model} {Predictive} {Control} of {Interacting} {Active} {Brownian} {Particles}},
+  title = {{Learning Continuum-level Closures For Control of Interacting Active Particles}},
 	doi = {10.48550/arXiv.2501.18809},
 	author = {Quah, Titus and Takatori, Sho C. and Rawlings, James B.},
 	year = {2025},
